@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KVSpringProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="KVSpringProject.war">
+      <element id="artifact" artifact-name="KVSpringProject:war exploded" />
+    </root>
+  </artifact>
+</component>
